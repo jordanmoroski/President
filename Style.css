@@ -1,0 +1,13 @@
+body{
+	background-color:#b3e0ff;
+	font-family: Helvetica; 
+}
+p{
+width: 20%
+}
+ol {
+list-style-position:inside;
+}
+ul {
+list-style-position: inside;
+}
